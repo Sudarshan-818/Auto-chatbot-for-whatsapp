@@ -1,1 +1,5 @@
-I have created an auto-reply WhatsApp chatbot that reads the latest incoming message from WhatsApp Web using PyAutoGUI (mouse/keyboard automation) and Pyperclip (clipboard copy-paste). The script checks if the last message is from a specific sender, sends that message to Groq’s LLaMA 3 model with a custom persona prompt, receives a relevant, human-like reply, and automatically pastes and sends it back in WhatsApp. You fine-tuned prompts, improved response formatting, adjusted screen coordinates for accurate automation, and added checks to avoid replying unnecessarily.
+I have created an auto-reply WhatsApp chatbot that reads the latest incoming message from WhatsApp Web using PyAutoGUI
+(mouse/keyboard automation) and Pyperclip (clipboard copy-paste). The script checks if the last message is from a specific
+sender, sends that message to Groq’s LLaMA 3 model with a custom persona prompt, receives a relevant, human-like reply, and
+automatically pastes and sends it back in WhatsApp. You fine-tuned prompts, improved response formatting, adjusted screen
+coordinates for accurate automation, and added checks to avoid replying unnecessarily.
